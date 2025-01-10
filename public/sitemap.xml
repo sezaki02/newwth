@@ -2,19 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://wthblog.netlify.app/posts/2024best/</loc>
+    <lastmod>2025-01-10T11:13:29+09:00</lastmod>
+  </url><url>
     <loc>https://wthblog.netlify.app/posts/</loc>
+    <lastmod>2025-01-10T11:13:29+09:00</lastmod>
+  </url><url>
+    <loc>https://wthblog.netlify.app/tags/</loc>
     <lastmod>2025-01-10T11:13:29+09:00</lastmod>
   </url><url>
     <loc>https://wthblog.netlify.app/</loc>
     <lastmod>2025-01-10T11:13:29+09:00</lastmod>
   </url><url>
-    <loc>https://wthblog.netlify.app/tags/</loc>
-    <lastmod>2024-07-24T17:48:53+09:00</lastmod>
+    <loc>https://wthblog.netlify.app/tags/%E6%98%A0%E7%94%BB/</loc>
+    <lastmod>2025-01-10T11:13:29+09:00</lastmod>
   </url><url>
     <loc>https://wthblog.netlify.app/posts/greatwall/</loc>
-    <lastmod>2024-07-24T17:48:53+09:00</lastmod>
-  </url><url>
-    <loc>https://wthblog.netlify.app/tags/%E6%98%A0%E7%94%BB/</loc>
     <lastmod>2024-07-24T17:48:53+09:00</lastmod>
   </url><url>
     <loc>https://wthblog.netlify.app/posts/following/</loc>
