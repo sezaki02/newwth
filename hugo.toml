@@ -1,0 +1,41 @@
+baseURL = 'https://lucky-sable-e3df43.netlify.app'
+languageCode = 'en-us'
+title = 'wth'
+theme = 'PaperMod'
+
+
+[params.homeInfoParams]
+Title = "Now playing"
+Content = "ほかより少し現在地付近"
+
+[[params.socialIcons]]
+name = "instagram"
+url = "https://www.instagram.com/nooo___de/"
+
+[[params.socialIcons]]
+name = "steam"
+url = "https://steamcommunity.com/profiles/76561199244922998/"
+
+[[menu.main]]
+identifier = "archives"
+name = "Archive"
+url = "/archives/"
+weight = 20
+
+[[menu.main]]
+identifier = "tags"
+name = "tags"
+url = "/tags/"
+weight = 10
+
+[[menu.main]]
+identifier = "Contact"
+name = "Contact"
+url = "https://cinemahole.carrd.co"
+weight = 10
+
+[params.assets]
+favicon = "https://raw.githubusercontent.com/sezaki02/star/main/static/favicon.ico"
+favicon16x16 = "https://raw.githubusercontent.com/sezaki02/star/main/static/favicon-16x16.png"
+favicon32x32 = "https://raw.githubusercontent.com/sezaki02/star/main/static/favicon-32x32.png"
+apple_touch_icon = "https://raw.githubusercontent.com/sezaki02/star/main/static/apple-touch-icon.png"
