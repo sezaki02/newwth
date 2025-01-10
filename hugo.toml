@@ -8,13 +8,10 @@ theme = 'PaperMod'
 Title = "Now playing"
 Content = "洋画と洋ゲーが好きなオタクのインターネット"
 
-[[params.socialIcons]]
-name = "instagram"
-url = "https://www.instagram.com/nooo___de/"
 
 [[params.socialIcons]]
-name = "steam"
-url = "https://steamcommunity.com/profiles/76561199244922998/"
+name = "letterboxd"
+url = "https://letterboxd.com/a738/films/"
 
 [[menu.main]]
 identifier = "archives"
