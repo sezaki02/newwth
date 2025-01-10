@@ -1,4 +1,4 @@
-baseURL = 'https://lucky-sable-e3df43.netlify.app'
+baseURL = 'https://wthblog.netlify.app/'
 languageCode = 'en-us'
 title = 'wth'
 theme = 'PaperMod'
@@ -6,7 +6,7 @@ theme = 'PaperMod'
 
 [params.homeInfoParams]
 Title = "Now playing"
-Content = "ほかより少し現在地付近"
+Content = "洋画と洋ゲーが好きなオタクのインターネット"
 
 [[params.socialIcons]]
 name = "instagram"
