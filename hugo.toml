@@ -32,7 +32,7 @@ weight = 10
 [[menu.main]]
 identifier = "Contact"
 name = "Contact"
-url = "https://cinemahole.carrd.co"
+url = "https://lit.link/havexit"
 weight = 10
 
 [params.assets]
