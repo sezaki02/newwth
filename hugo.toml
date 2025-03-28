@@ -9,9 +9,6 @@ Title = "Now playing"
 Content = "洋画と洋ゲーが好きなオタクのインターネット"
 
 
-[[params.socialIcons]]
-name = "letterboxd"
-url = "https://letterboxd.com/a738/films/"
 
 [[params.socialIcons]]
 name = "other"
