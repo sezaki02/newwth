@@ -3,6 +3,10 @@ languageCode = 'en-us'
 title = 'wth'
 theme = 'PaperMod'
 
+[params]
+  ShowToc = true
+  TocOpen = true
+
 
 [params.homeInfoParams]
 Title = "Now playing"
