@@ -6,6 +6,11 @@ theme = 'PaperMod'
 [params]
   ShowToc = true
   TocOpen = true
+  env = "production" # ← 重要（これがないとOGPが無効になる場合あり）
+  title = "wth"
+  description = "洋画が好きなオタクのインターネット"
+
+  images = ["ogp_wthblog.png"] # サイト共通OGP画像
 
 
 [params.homeInfoParams]

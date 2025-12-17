@@ -2,19 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on wth</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://wthblog.netlify.app/posts/</link>
     <description>Recent content in Posts on wth</description>
+    <image>
+      <title>wth</title>
+      <url>https://wthblog.netlify.app/ogp_wthblog.png</url>
+      <link>https://wthblog.netlify.app/ogp_wthblog.png</link>
+    </image>
     <generator>Hugo -- 0.150.0</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Dec 2025 12:29:46 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wthblog.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Shadow&#39;s Edge</title>
-      <link>http://localhost:1313/posts/shadowsedge/</link>
+      <link>https://wthblog.netlify.app/posts/shadowsedge/</link>
       <pubDate>Wed, 17 Dec 2025 12:29:46 +0900</pubDate>
-      <guid>http://localhost:1313/posts/shadowsedge/</guid>
+      <guid>https://wthblog.netlify.app/posts/shadowsedge/</guid>
       <description>&lt;p&gt;いつの間にかもう12月も半分終わっており、笑うしかありません。今まだ2025年始まって半年くらいじゃない？　え？（真顔）&lt;/p&gt;
 &lt;p&gt;しかし確かに今年は「ベストキッド・レジェンズ」が公開になったのが夏、あれから更に季節が過ぎて冬の最中に「シャドウズ・エッジ」と来たのだから、確かに月日が過ぎています。今年はジャッキーの新作が二本も見れてありがたい！&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/fGWmMDu0VPA?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
 &lt;h2 id=&#34;ジャッキーはすごい&#34;&gt;ジャッキーはすごい&lt;/h2&gt;
 &lt;p&gt;これね〜〜〜めちゃくちゃ面白かったです（結論）！
 事前に情報を入れずに見に行ったのですが、なんとなく「ジャッキーのアクションは多少はあるだろうけど、大立ち回りみたいなのはべつにないんだろうな〜（年齢もあるしね）」とか思い込んでいたんですよね。そしたら&lt;strong&gt;めちゃくちゃ動く&lt;/strong&gt;のでいい意味で期待を裏切られました。ありがとうジャッキー、ありがとうラリー・ヤン監督……。&lt;/p&gt;
@@ -30,22 +39,22 @@
 &lt;p&gt;リアリティがないと言いたいわけではなくて、なんか「&lt;strong&gt;警察（概念）&lt;/strong&gt;」程度の構造しか用意されていないのに「これは現実にちゃんと機能してるまともな警察組織ですよ」の顔をしながら「（特に説明もなく）急に脆い」ので、ちょっと「あれ？」と思ってしまったんですよね。&lt;/p&gt;
 &lt;p&gt;特にジャッキー・チェンという強靭なフィクション性と現実味を兼ね備えた稀有な存在がいる世界だと、周囲の存在もそれ相応の整合性・必然性みたいなのが求められるんじゃないかと思っていて……ジャッキーについていける世界じゃないと全部がウソくさくなるというか、だからすごい強いやつ（ジャッキー）にすごい強いやつ（レオン）をぶつけるのは理解できるし、そこはめちゃくちゃ機能している。&lt;/p&gt;
 &lt;p&gt;ただこの世界の背景に関して言えば「け、警察くん……！　もっとこう……あるだろう！」と感じてしまったんですよね。前提説明がなければ一般的に共有される知識・イメージでこういう物事は見ると思うので。それが物語の都合で急に説明もなく壊れていいものではないような……そんな気がしました。&lt;/p&gt;
-&lt;h3 id=&#34;自分の身体感覚を信じろ&#34;&gt;自分の身体感覚を信じろ&lt;/h3&gt;
+&lt;h2 id=&#34;自分の身体感覚を信じろ&#34;&gt;自分の身体感覚を信じろ&lt;/h2&gt;
 &lt;p&gt;とはいうものの、全体としては本当に面白かったです。AIなども出てくるけれどハッキングされてしまったり、そこで「キツネを狩るには老獪な猟師を」ということで呼ばれてくる引退した刑事。チャン・ツィフォン演じる若手刑事が自分の目と耳、感覚や知識を育てて刑事として一皮むけていく様子など、この「自分を信じろ」みたいなメッセージ性、その世界の中心にジャッキーがいることはものすごい説得力ですね。&lt;/p&gt;
 &lt;p&gt;まだまだ続きたいみたいな終わり方でしたが、次もあればぜひ見たいな〜！と思います。エンドロールのメイキング集じゃないけど、ジャッキーにはあと20年は映画に出て欲しいですね！&lt;/p&gt;</description>
     </item>
     <item>
       <title>We’re All Going to the World’s Fair</title>
-      <link>http://localhost:1313/posts/worldsfair/</link>
+      <link>https://wthblog.netlify.app/posts/worldsfair/</link>
       <pubDate>Fri, 31 Oct 2025 10:32:27 +0900</pubDate>
-      <guid>http://localhost:1313/posts/worldsfair/</guid>
+      <guid>https://wthblog.netlify.app/posts/worldsfair/</guid>
       <description>&lt;p&gt;思ってたのと違ったけどめちゃくちゃ面白かったです。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mission: Impossible – The Final Reckoning</title>
-      <link>http://localhost:1313/posts/fr/</link>
+      <link>https://wthblog.netlify.app/posts/fr/</link>
       <pubDate>Tue, 27 May 2025 15:33:58 +0900</pubDate>
-      <guid>http://localhost:1313/posts/fr/</guid>
+      <guid>https://wthblog.netlify.app/posts/fr/</guid>
       <description>&lt;p&gt;いや、ありがとうございました。約30年の長きに渡り世界のために走り続けたイーサン・ハントの物語に一区切りがついた。その生き様を映画館のスクリーン、ひいてはIMAXで鑑賞できたことに感謝しています。&lt;/p&gt;
 &lt;p&gt;以下、本編のネタバレを含みます。執筆時点では劇場パンフレットを読んでいません。色々認識の違いがあるかもしれません。そういう状態での感想文です。&lt;/p&gt;
 &lt;blockquote&gt;
@@ -98,9 +107,9 @@
     </item>
     <item>
       <title>GODLAND</title>
-      <link>http://localhost:1313/posts/godland/</link>
+      <link>https://wthblog.netlify.app/posts/godland/</link>
       <pubDate>Sat, 01 Mar 2025 13:27:47 +0900</pubDate>
-      <guid>http://localhost:1313/posts/godland/</guid>
+      <guid>https://wthblog.netlify.app/posts/godland/</guid>
       <description>&lt;p&gt;ゴッドランドを見ました。書いとかないと忘れるので取り急ぎ観たメモを！&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/2OTU1Q9okTE?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
@@ -115,9 +124,9 @@
     </item>
     <item>
       <title>Wallace &amp; Gromit: Vengeance Most Fowl</title>
-      <link>http://localhost:1313/posts/wallaceandgromitvmf/</link>
+      <link>https://wthblog.netlify.app/posts/wallaceandgromitvmf/</link>
       <pubDate>Tue, 14 Jan 2025 11:56:15 +0900</pubDate>
-      <guid>http://localhost:1313/posts/wallaceandgromitvmf/</guid>
+      <guid>https://wthblog.netlify.app/posts/wallaceandgromitvmf/</guid>
       <description>&lt;p&gt;これのためだけにわざわざNetflixに加入した一月です。タイトルは&lt;a href=&#34;https://www.folger.edu/explore/shakespeares-works/hamlet/read/1/5/&#34;&gt;Murder Most Foul&lt;/a&gt;ならぬVengeance Most Fowlということで&lt;strong&gt;大いなるニワトリの復讐&lt;/strong&gt;とでも訳せばいいんでしょうか。ニワトリ！？　確かにこのシリーズ、過去に&lt;strong&gt;ニワトリがいたような&lt;/strong&gt;……おや、誰かが来たみたいですね……&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/X0ZGf2B01uU?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
@@ -139,9 +148,9 @@
     </item>
     <item>
       <title>ブログをNetlifyに移行した</title>
-      <link>http://localhost:1313/posts/myblogmyhome/</link>
+      <link>https://wthblog.netlify.app/posts/myblogmyhome/</link>
       <pubDate>Fri, 10 Jan 2025 13:43:18 +0900</pubDate>
-      <guid>http://localhost:1313/posts/myblogmyhome/</guid>
+      <guid>https://wthblog.netlify.app/posts/myblogmyhome/</guid>
       <description>&lt;p&gt;ブログをロリポップでの運用から移行し、Netlifyでのホスティングに変更しました。もともと最初からGitHub PagesかNetlifyで動かすつもりだったのですが、使うのが初めてすぎて何もかもうまくいかず、諦めてFTPで全てをアップロードするという暴挙に出た次第でした。&lt;/p&gt;
 &lt;p&gt;先日独自ドメインの契約更新のお知らせが届いたのを期に、このブログもぼちぼち費用をかけずに運用する方向にシフトさせていく頃合いかと思い、非常〜〜〜に重い腰をあげて移転作業を行いました。&lt;/p&gt;
 &lt;p&gt;ま〜今度もやっぱりうまくできませんでしたね！思えば最も最初に導入したHugoだったので、おそらく当初からなにか自分の作業でうまくないことが起きていたんだと思います。その後に導入した他のブログは問題ないのに、このブログだけ一生デプロイに失敗していたので……。&lt;/p&gt;
@@ -150,9 +159,9 @@
     </item>
     <item>
       <title>配信で見たベスト10・2024</title>
-      <link>http://localhost:1313/posts/2024best/</link>
+      <link>https://wthblog.netlify.app/posts/2024best/</link>
       <pubDate>Fri, 10 Jan 2025 11:13:29 +0900</pubDate>
-      <guid>http://localhost:1313/posts/2024best/</guid>
+      <guid>https://wthblog.netlify.app/posts/2024best/</guid>
       <description>&lt;p&gt;これ2024年内にやれなかったのだいぶ「あーあ」って感じなんですけど（？）とりあえずまとめておきます。どれも面白い・素敵な作品なので「今年は家でなに見よっかな〜」という方の参考になれば幸いです。&lt;/p&gt;
 &lt;h3 id=&#34;名探偵ポアロベネチアの亡霊-2023&#34;&gt;①名探偵ポアロ：ベネチアの亡霊 (2023)&lt;/h3&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -178,9 +187,9 @@
     </item>
     <item>
       <title>The Great Wall</title>
-      <link>http://localhost:1313/posts/greatwall/</link>
+      <link>https://wthblog.netlify.app/posts/greatwall/</link>
       <pubDate>Wed, 24 Jul 2024 17:48:53 +0900</pubDate>
-      <guid>http://localhost:1313/posts/greatwall/</guid>
+      <guid>https://wthblog.netlify.app/posts/greatwall/</guid>
       <description>&lt;p&gt;トンチキ映画を勧められてすぐに見てしまうほどには暑いなあと思う今日この頃ですが、いかがお過ごしでしょうか。私は最近映画「グレートウォール」を見てだいぶ面白かったので、ここに感想を記録しておきたいと思います。
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/B9xMPUVLjsQ?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
@@ -212,9 +221,9 @@
     </item>
     <item>
       <title>Following</title>
-      <link>http://localhost:1313/posts/following/</link>
+      <link>https://wthblog.netlify.app/posts/following/</link>
       <pubDate>Fri, 24 May 2024 17:41:57 +0900</pubDate>
-      <guid>http://localhost:1313/posts/following/</guid>
+      <guid>https://wthblog.netlify.app/posts/following/</guid>
       <description>&lt;p&gt;フォロウィングHDレストア版です。来月からアマプラ見放題に来るとはいえ、映画館で見ておきたいんだよ俺は！ということで滑り込み鑑賞してきました。ジョン・ノーランおじさんも出るよ！（謎方面のネタバレ）&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/g97MylI54zc?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
@@ -231,9 +240,9 @@
     </item>
     <item>
       <title>DUNE: PART 2</title>
-      <link>http://localhost:1313/posts/dune2/</link>
+      <link>https://wthblog.netlify.app/posts/dune2/</link>
       <pubDate>Mon, 25 Mar 2024 12:57:40 +0900</pubDate>
-      <guid>http://localhost:1313/posts/dune2/</guid>
+      <guid>https://wthblog.netlify.app/posts/dune2/</guid>
       <description>&lt;p&gt;観てきましたね。以下ネタバレを含みます。&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/Way9Dexny3w?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
@@ -252,9 +261,9 @@
     </item>
     <item>
       <title>Psycho Goreman</title>
-      <link>http://localhost:1313/posts/pg/</link>
+      <link>https://wthblog.netlify.app/posts/pg/</link>
       <pubDate>Tue, 20 Feb 2024 12:40:29 +0900</pubDate>
-      <guid>http://localhost:1313/posts/pg/</guid>
+      <guid>https://wthblog.netlify.app/posts/pg/</guid>
       <description>&lt;p&gt;この「サイコ・ゴアマン」というタイトルを目にした時からすでに好きだったとしか言えないのですが、見たらやっぱり好きでしたね。シネマート新宿で上映されたタイトルというのも個人的にはポイントが高いです（シネマート新宿に信頼を寄せているタイプのオタク）。&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/kgyPGGLYnKs?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
@@ -279,9 +288,9 @@
     </item>
     <item>
       <title>iPhoneの新機能・Journalを試してみた</title>
-      <link>http://localhost:1313/posts/journal/</link>
+      <link>https://wthblog.netlify.app/posts/journal/</link>
       <pubDate>Thu, 18 Jan 2024 15:52:42 +0900</pubDate>
-      <guid>http://localhost:1313/posts/journal/</guid>
+      <guid>https://wthblog.netlify.app/posts/journal/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.apple.com/jp/newsroom/2023/12/apple-launches-journal-app-a-new-app-for-reflecting-on-everyday-moments/&#34;&gt;Apple、日々の瞬間や暮らしの中の特別な出来事を振り返るための新しいアプリ、ジャーナルの提供を開始&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;ジャーナルです。サービス開始から一ヶ月が経ちましたが、アップルユーザーの皆様におかれましては日々活用されていることでしょうか。&lt;br&gt;
 私はこのアプリがiPhoneの画面上に現れて以来一切触ってこなかったのですが、実際に触ってみるとなかなかいいなあと思ったので書いておきます。&lt;/p&gt;
@@ -293,14 +302,14 @@
 &lt;p&gt;日記という形で記録を取らなくても、現代は写真を取ったりその他様々なアクティビティがスマートフォンに記録されるおかげで、過去の蓄積、あるいはそうした蓄積の閲覧がとても容易になりました。写真アプリが「数年前の今日はこんなことをしていましたよ」と過去の同じ日付に撮った写真をピックアップして通知してくれたり、そういうことをきっかけに振り返りをするのはそれなりに楽しいなと思います。&lt;/p&gt;
 &lt;h3 id=&#34;ジャーナルでお手軽に記録をつけよう&#34;&gt;ジャーナルでお手軽に記録をつけよう&lt;/h3&gt;
 &lt;p&gt;ジャーナルはそうした便利機能を、敢えて「日記」のかたちで残すことができる機能です。撮った写真はもちろん、フィットネスや聴いた音楽など、その日に記録されているログを呼び出して利用することができます。ゼロから日記を書こうとするとなかなかハードルが高いですが、こうした情報を引用することによって「一言でも書いておこう」と思えたり、ただその情報を貼り付けておくだけでも日記をつけたことになる。「これまで日記をつける習慣がなかったけれど始めてみたい」という人にはとてもいいものだと思いますし、このちょっとしたログの積み重ねを数ヶ月とか一年とか後になって振り返ったらとても楽しいのではないかと思います。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Journal&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/img_journal.jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Journal&#34; loading=&#34;lazy&#34; src=&#34;https://wthblog.netlify.app/img/img_journal.jpeg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;自分は試しに今日聴いた音楽を記録してみました。これも年末になればiTunesが「今年の再生回数ベスト」とかを出してくれるので逐一記録してなにかメリットがある……というわけでもないんですが、あとでジャーナルを見返して「この時期はこんな曲を聴いていたんだな」と思い出しても楽しそうなので、気が向いたら書き留めてみたいと思います。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Slaughterhouse Rulez</title>
-      <link>http://localhost:1313/posts/slaughterhouserulez/</link>
+      <link>https://wthblog.netlify.app/posts/slaughterhouserulez/</link>
       <pubDate>Tue, 16 Jan 2024 13:53:54 +0900</pubDate>
-      <guid>http://localhost:1313/posts/slaughterhouserulez/</guid>
+      <guid>https://wthblog.netlify.app/posts/slaughterhouserulez/</guid>
       <description>&lt;p&gt;スローターハウスルールズを観ました。サイダーハウスルールのタイトルパロディにしては最悪すぎんか？と爆笑していたのですが「サイダーハウスルール」の原作者アーヴィングは「スローターハウス5」の作者ヴォガネットの授業を受講していたと知り、そんな因果が……とさらに笑っています。ちなみにスローターハウス5は個人的に近年読むのに苦労した本ナンバーワンです（どうでもいい）&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/xVzhqPC-CCM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
@@ -316,9 +325,9 @@
     </item>
     <item>
       <title>Edge of Tomorrow</title>
-      <link>http://localhost:1313/posts/edgeoftomorrow/</link>
+      <link>https://wthblog.netlify.app/posts/edgeoftomorrow/</link>
       <pubDate>Tue, 09 Jan 2024 13:27:37 +0900</pubDate>
-      <guid>http://localhost:1313/posts/edgeoftomorrow/</guid>
+      <guid>https://wthblog.netlify.app/posts/edgeoftomorrow/</guid>
       <description>&lt;p&gt;&lt;em&gt;世界は繰り返さないものだ。誰もが同じ恐怖と戦っている。たったひとつの命を敵の前に晒している。&lt;/em&gt;（桜坂洋. All You Need is Kill. 集英社 2012）&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/vw61gCe2oqI?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
@@ -339,9 +348,9 @@
     </item>
     <item>
       <title>Godzilla -1.0</title>
-      <link>http://localhost:1313/posts/godzillaminusone/</link>
+      <link>https://wthblog.netlify.app/posts/godzillaminusone/</link>
       <pubDate>Fri, 05 Jan 2024 15:58:32 +0900</pubDate>
-      <guid>http://localhost:1313/posts/godzillaminusone/</guid>
+      <guid>https://wthblog.netlify.app/posts/godzillaminusone/</guid>
       <description>&lt;p&gt;2024年一本目はエクスペを待つか首かゴジラか悩んだ結果、ゴジラを鑑賞してきました。&lt;/p&gt;
 &lt;p&gt;以下本編のネタバレを含みますのでご注意ください。&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -370,10 +379,10 @@
     </item>
     <item>
       <title>今年見た旧作5選・2023</title>
-      <link>http://localhost:1313/posts/2023best90min/</link>
+      <link>https://wthblog.netlify.app/posts/2023best90min/</link>
       <pubDate>Thu, 28 Dec 2023 22:55:22 +0900</pubDate>
-      <guid>http://localhost:1313/posts/2023best90min/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;I&amp;rsquo;ve been watched in 2023&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/2023movies.png&#34;&gt;&lt;/p&gt;
+      <guid>https://wthblog.netlify.app/posts/2023best90min/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;I&amp;rsquo;ve been watched in 2023&#34; loading=&#34;lazy&#34; src=&#34;https://wthblog.netlify.app/img/2023movies.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;今年映画館で見た３選はてがろぐでやったので、とりあえず今年見た旧作特に好きな5本（90分以上）を記録しておきます。&lt;/p&gt;
 &lt;h2 id=&#34;凱里ブルース&#34;&gt;凱里ブルース&lt;/h2&gt;
 &lt;p&gt;過去と未来と現在がシームレスな円環で繋がっていて、とてつもないクオリティの明晰夢を見せられている感じでした。じっくりもう一回見たいです。&lt;/p&gt;
@@ -390,9 +399,9 @@
     </item>
     <item>
       <title>First Cow</title>
-      <link>http://localhost:1313/posts/231225/</link>
+      <link>https://wthblog.netlify.app/posts/231225/</link>
       <pubDate>Mon, 25 Dec 2023 15:59:30 +0900</pubDate>
-      <guid>http://localhost:1313/posts/231225/</guid>
+      <guid>https://wthblog.netlify.app/posts/231225/</guid>
       <description>&lt;p&gt;ライカート監督だ！わーい！というだけで観に行ったら予期せぬトビージョーンズの登場に萌えを拗らせすぎて頭痛がすごかったです（終わり）&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/VtxyCygf5ko?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
@@ -422,9 +431,9 @@
     </item>
     <item>
       <title>iPhoneをiPodにする</title>
-      <link>http://localhost:1313/posts/ipod/</link>
+      <link>https://wthblog.netlify.app/posts/ipod/</link>
       <pubDate>Mon, 30 Oct 2023 09:17:31 +0900</pubDate>
-      <guid>http://localhost:1313/posts/ipod/</guid>
+      <guid>https://wthblog.netlify.app/posts/ipod/</guid>
       <description>&lt;p&gt;インターネットを見ていたら面白い記事を発見しました。&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.gizmodo.jp/2023/10/httpsgizmodo-comurban-outfitters-selling-vintage-ipods.html&#34;&gt;若者に人気の米アパレルショップがiPodを販売。すぐ完売&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;新品バッテリーの初代iPod（128GB）が5万円強。自分はiPodを使っていた世代なので物珍しさで……というわけではありませんが、この頃MP3プレイヤーが欲しいと思っていたのでとても羨ましいです。&lt;strong&gt;真ん中のアレをクルクルしたいよ〜&lt;/strong&gt;！&lt;/p&gt;
@@ -444,9 +453,9 @@
     </item>
     <item>
       <title>Equalizer 3</title>
-      <link>http://localhost:1313/posts/equalizer3/</link>
+      <link>https://wthblog.netlify.app/posts/equalizer3/</link>
       <pubDate>Tue, 24 Oct 2023 15:15:54 +0900</pubDate>
-      <guid>http://localhost:1313/posts/equalizer3/</guid>
+      <guid>https://wthblog.netlify.app/posts/equalizer3/</guid>
       <description>&lt;p&gt;やっと見てきました。今日まで人様の感想・ネタバレを踏まずに暮らしてきましたが、結果的にとても楽しむことができました。&lt;/p&gt;
 &lt;p&gt;以下本編のネタバレを含みます。&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -472,17 +481,10 @@
 &lt;p&gt;敵のマフィアについても「テンプレ的悪いヤツ」以上の何かがあるわけでなく、マッコールさんは当然負けないとわかっているのもあり、良くも悪くもストレスなく見れてしまった感じです。ただそれもシリーズ全体の流れで見るからそう思うのかも知れなくもあり、単作としては全然面白いと思います。4は……ないのかな〜。&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Equalizer</title>
-      <link>http://localhost:1313/posts/equalizer/</link>
-      <pubDate>Tue, 24 Oct 2023 15:14:53 +0900</pubDate>
-      <guid>http://localhost:1313/posts/equalizer/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Shark Exorcist</title>
-      <link>http://localhost:1313/posts/exorcistshark/</link>
+      <link>https://wthblog.netlify.app/posts/exorcistshark/</link>
       <pubDate>Mon, 23 Oct 2023 11:40:39 +0900</pubDate>
-      <guid>http://localhost:1313/posts/exorcistshark/</guid>
+      <guid>https://wthblog.netlify.app/posts/exorcistshark/</guid>
       <description>&lt;p&gt;ヴァチカンのエクソシストの配信が始まっていますね。早く見放題に来てほしいなあと思っている今日この頃です。&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/8CZ1pKHHzW8?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
@@ -520,9 +522,9 @@
     </item>
     <item>
       <title>Interview with the Vampire</title>
-      <link>http://localhost:1313/posts/vampire/</link>
+      <link>https://wthblog.netlify.app/posts/vampire/</link>
       <pubDate>Fri, 20 Oct 2023 15:02:39 +0900</pubDate>
-      <guid>http://localhost:1313/posts/vampire/</guid>
+      <guid>https://wthblog.netlify.app/posts/vampire/</guid>
       <description>&lt;p&gt;10月後半です。秋も深まり芸術鑑賞のひとときを過ごしたくなるかと思いきや、毎日だいぶ暑いです。夏の亡霊がそのへんを彷徨ってるぜ。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;18世紀末、最愛の妻を亡くし、絶望の淵に沈む彼の前に現れた悪魔的美貌の吸血鬼レスタト。彼によって永遠の命を与えらたルイは、レスタトと共に世紀末の夜をさまよう。現代のサンフランシスコ。街を見下ろすビルの一室で、インタビュアーを前に美しい青年ルイが自らの半生を語り始めた。&lt;/p&gt;&lt;/blockquote&gt;
@@ -540,9 +542,9 @@
     </item>
     <item>
       <title>Snow Shark: Ancient Snow Beast</title>
-      <link>http://localhost:1313/posts/snows/</link>
+      <link>https://wthblog.netlify.app/posts/snows/</link>
       <pubDate>Mon, 25 Sep 2023 11:38:06 +0900</pubDate>
-      <guid>http://localhost:1313/posts/snows/</guid>
+      <guid>https://wthblog.netlify.app/posts/snows/</guid>
       <description>&lt;p&gt;いつのまにか九月も終盤に差し掛かっていますね。気温も下がり、いよいよ芸術（&lt;strong&gt;サメ&lt;/strong&gt;）の秋と言ったところです。&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/e6MRCrf80mg?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
@@ -575,9 +577,9 @@
     </item>
     <item>
       <title>Ouija Shark 2</title>
-      <link>http://localhost:1313/posts/os2/</link>
+      <link>https://wthblog.netlify.app/posts/os2/</link>
       <pubDate>Mon, 11 Sep 2023 15:11:55 +0900</pubDate>
-      <guid>http://localhost:1313/posts/os2/</guid>
+      <guid>https://wthblog.netlify.app/posts/os2/</guid>
       <description>&lt;p&gt;２を見る機会に恵まれた今日この頃です。秋ですね。実はこの映画を見てから暫く日が経ってしまったので、色々忘れてます。すでに……。&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/c6xboahqZw8?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
@@ -609,9 +611,9 @@
     </item>
     <item>
       <title>Land Shark</title>
-      <link>http://localhost:1313/posts/ls/</link>
+      <link>https://wthblog.netlify.app/posts/ls/</link>
       <pubDate>Wed, 06 Sep 2023 08:41:41 +0900</pubDate>
-      <guid>http://localhost:1313/posts/ls/</guid>
+      <guid>https://wthblog.netlify.app/posts/ls/</guid>
       <description>&lt;p&gt;シャーケンシュタインに続きランドシャークを見ました。邦題サブタイトル「丘ジョーズの逆襲」とのことで、丘ジョーズも意味不明だし何が逆襲なのかもまったくわかりませんが、元気いっぱいでよろしい！という感じです（&lt;strong&gt;もう疲れてる&lt;/strong&gt;）。&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/1JRnWL5Tnqg?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
@@ -636,9 +638,9 @@
     </item>
     <item>
       <title>青い春</title>
-      <link>http://localhost:1313/posts/aoiharu/</link>
+      <link>https://wthblog.netlify.app/posts/aoiharu/</link>
       <pubDate>Mon, 04 Sep 2023 12:46:54 +0900</pubDate>
-      <guid>http://localhost:1313/posts/aoiharu/</guid>
+      <guid>https://wthblog.netlify.app/posts/aoiharu/</guid>
       <description>&lt;p&gt;前々から気になってた映画を！ついに見た！！（そんなことばっかり言ってるな？）&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;漫画家・松本大洋の同名短編集を松田龍平主演で実写映画化した青春映画。「ポルノスター」「ナイン・ソウルズ」の豊田利晃が監督・脚本を手がけ、原作に収録された複数のエピソードを基に不良高校生たちの閉塞感に満ちた青春の日々を鮮烈に描き出す。男子校・朝日高等学校の3年生になった九條と幼なじみの青木は、仲間たちと一緒に授業をサボって屋上に集まり、柵の外側に立って手を叩いた回数を競い合う危険な度胸試し「ベランダゲーム」をする。新記録を出した九條は学校を仕切る権利を手に入れるが、彼にとってはゲームも学校を仕切ることも無意味なことだった。漠然とした不安と苛立ちを抱えながら退屈な日常をやり過ごす彼らに、やがて進路選択という現実が否応なく突きつけられる。&lt;/p&gt;&lt;/blockquote&gt;
@@ -652,9 +654,9 @@
     </item>
     <item>
       <title>The Hunted(1995)</title>
-      <link>http://localhost:1313/posts/th/</link>
+      <link>https://wthblog.netlify.app/posts/th/</link>
       <pubDate>Thu, 31 Aug 2023 13:58:21 +0900</pubDate>
-      <guid>http://localhost:1313/posts/th/</guid>
+      <guid>https://wthblog.netlify.app/posts/th/</guid>
       <description>&lt;p&gt;ヘンテコジャパンを取り扱うニンジャサムライムービーは数あれど、舞台が&lt;strong&gt;名古屋&lt;/strong&gt;でちゃんと現地ロケしてる映画ってこの映画くらいじゃないだろうか。ジャパン＝トーキョーの価値観を脱したヘンテコ名古屋ムービーが1995年に爆誕していたとは知らなかったよ。&lt;/p&gt;
 &lt;p&gt;物語のあらすじは、アメリカから名古屋に商談で来た男性が、謎の美女と出会ったことで忍者vs侍の戦いに巻き込まれていく……というもの（&lt;strong&gt;雑すぎる&lt;/strong&gt;）。&lt;/p&gt;
 &lt;p&gt;なお無意味なお色気シーンや公共交通機関での無差別襲撃シーンがあるので、抵抗がある方にはおすすめしません。&lt;/p&gt;
@@ -673,9 +675,9 @@
     </item>
     <item>
       <title>エドワード・ヤンの恋愛時代（4Kレストア版）</title>
-      <link>http://localhost:1313/posts/ds/</link>
+      <link>https://wthblog.netlify.app/posts/ds/</link>
       <pubDate>Wed, 30 Aug 2023 11:32:36 +0900</pubDate>
-      <guid>http://localhost:1313/posts/ds/</guid>
+      <guid>https://wthblog.netlify.app/posts/ds/</guid>
       <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/TOmYm-v7J8I?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -690,9 +692,9 @@
     </item>
     <item>
       <title>Sharkenstein</title>
-      <link>http://localhost:1313/posts/sharkenstein/</link>
+      <link>https://wthblog.netlify.app/posts/sharkenstein/</link>
       <pubDate>Tue, 29 Aug 2023 15:50:19 +0900</pubDate>
-      <guid>http://localhost:1313/posts/sharkenstein/</guid>
+      <guid>https://wthblog.netlify.app/posts/sharkenstein/</guid>
       <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/2VW2v4gcpds?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -719,9 +721,9 @@
     </item>
     <item>
       <title>Ouija Shark</title>
-      <link>http://localhost:1313/posts/os/</link>
+      <link>https://wthblog.netlify.app/posts/os/</link>
       <pubDate>Mon, 28 Aug 2023 14:15:01 +0900</pubDate>
-      <guid>http://localhost:1313/posts/os/</guid>
+      <guid>https://wthblog.netlify.app/posts/os/</guid>
       <description>&lt;p&gt;ずっと気になっていた作品を遂に見ました！&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/effVRl2LOQs?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
@@ -754,9 +756,9 @@
     </item>
     <item>
       <title>Mission: Impossible – Dead Reckoning Part One</title>
-      <link>http://localhost:1313/posts/dr/</link>
+      <link>https://wthblog.netlify.app/posts/dr/</link>
       <pubDate>Sun, 27 Aug 2023 08:56:37 +0900</pubDate>
-      <guid>http://localhost:1313/posts/dr/</guid>
+      <guid>https://wthblog.netlify.app/posts/dr/</guid>
       <description>&lt;p&gt;この記事を書いている現在で三回観に行ってきたのですが、あらゆるところで騒ぎすぎて&lt;strong&gt;もうブログに書かなくてもいいや&lt;/strong&gt;と思ったけどやっぱり書いておきます。&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/fOsYm_8Rosc?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
@@ -782,9 +784,9 @@
     </item>
     <item>
       <title>恋する惑星（4Kレストア版）</title>
-      <link>http://localhost:1313/posts/230825/</link>
+      <link>https://wthblog.netlify.app/posts/230825/</link>
       <pubDate>Fri, 25 Aug 2023 14:22:39 +0900</pubDate>
-      <guid>http://localhost:1313/posts/230825/</guid>
+      <guid>https://wthblog.netlify.app/posts/230825/</guid>
       <description>&lt;p&gt;なんとなく映画は見ているんだけどブログに書く体力が全くなく、でもそうこうしているうちに忘れちゃうからやっぱり書いておこうの精神でパソコンに向かっています。&lt;/p&gt;
 &lt;p&gt;恋する惑星（原題：重慶森林）は1994年ウォン・カーウァイ監督の香港映画です。あらすじとしては「香港を舞台に二組の男女の感情が交錯する」みたいな感じでおしゃれ感が半端ない。男女二組ではあるんだけど前編・後編みたいにそれぞれのストーリーは独立しているので、四人でわちゃわちゃやってるわけではありません。前編は金城武＆「白い粉」運び屋の姉さんの話で、後編はトニーレオンとフェイウォンがキャッキャしている感じです（どんな説明？）。&lt;/p&gt;
 &lt;p&gt;この映画でいいなあと思ったのは大まかに言って四つなんですけど、一つは色彩！青と赤と黄色で出来ていて、それらが入り混じるとうっすら緑色に見えるようなスゲ〜素敵な色彩で良かったです。&lt;/p&gt;
@@ -796,9 +798,9 @@
     </item>
     <item>
       <title>OLD JOY</title>
-      <link>http://localhost:1313/posts/230325/</link>
+      <link>https://wthblog.netlify.app/posts/230325/</link>
       <pubDate>Sat, 25 Mar 2023 07:24:41 +0900</pubDate>
-      <guid>http://localhost:1313/posts/230325/</guid>
+      <guid>https://wthblog.netlify.app/posts/230325/</guid>
       <description>&lt;p&gt;なんとなく思い立って「OLD JOY」を観た。掠れた歌みたいにいい映画だった。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;もうすぐ父親になるマークは、ヒッピー的な生活を続ける旧友カートから久しぶりに電話を受ける。キャンプの誘い。 “戦時大統領”G・W・ブッシュは再選し、カーラジオからはリベラルの自己満足と無力を憂う声が聞こえる……。ゴーストタウンのような町を出て、二人は、ポートランドの外れ、どこかに温泉があるという山へ向かう。(公式サイトより)&lt;/p&gt;&lt;/blockquote&gt;
@@ -810,9 +812,9 @@
     </item>
     <item>
       <title>SESSIONをメモ帳として使う</title>
-      <link>http://localhost:1313/posts/230318/</link>
+      <link>https://wthblog.netlify.app/posts/230318/</link>
       <pubDate>Sat, 18 Mar 2023 16:43:07 +0900</pubDate>
-      <guid>http://localhost:1313/posts/230318/</guid>
+      <guid>https://wthblog.netlify.app/posts/230318/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://getsession.org/&#34;&gt;SESSION&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Send Messages,Not Metadataである。純然たるメッセンジャーアプリだがアカウントを知っている知り合いも特にいないので、個人的なメモ帳として利用している。UpNoteあたりに書き留めてもいいのだが、タイトル別に仕分けるより漠然とだらだら書き連ねる方が気楽な場合も多々としてある。&lt;/p&gt;
 &lt;p&gt;ウェブ記事の一部分だけ抜粋してメモしておきたい時、SESSIONにペーストして適当な訳文をつけておく。あとは見た映画とか読んだ本とか、自分専用の独り言ツールと化している。雑然として押し流されていくが、後になってカオスを遡っていくのもまた面白い。&lt;/p&gt;
@@ -820,9 +822,9 @@
     </item>
     <item>
       <title>Everything Everywhere All at Once</title>
-      <link>http://localhost:1313/posts/230317/</link>
+      <link>https://wthblog.netlify.app/posts/230317/</link>
       <pubDate>Fri, 17 Mar 2023 16:35:23 +0900</pubDate>
-      <guid>http://localhost:1313/posts/230317/</guid>
+      <guid>https://wthblog.netlify.app/posts/230317/</guid>
       <description>&lt;p&gt;観よう観ようと思いながら後回しになっていたのですが、Twitterでも勧めて頂いたので元気よく観に行ってきました。何にも考えないで邦題つけるなら「ミシェル・ヨーのマルチバースでカンフー！」あたりが適当でしょうか。面白かったです。画面の情報量は多かったけれど、ストーリーがとてもシンプルだからか身構えていたほどの「置いてけぼり」感もなく、ちゃんとした人間が作ったメチャクチャ映画だなという感じでした。&lt;strong&gt;いつも何を観ているのか？&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;事前に「邪悪なベーグルが出てくる」という情報提供を受けていたので「いつどこでベーグルが出てくるんだろう」と思っていたらベーグル柄の傘が出てきたので不意を突かれたことは特に意味もなく書き記しておきます。いやベーグル食べたくなっちゃうよな。後々ウェイモンド（エブリンの夫）が国税局内のデスクにあったベーグル食べるシーンを見て「邪悪（であるらしい）なベーグル食ってるからなんか意味がありそう」と思ったと同時に「やっぱりベーグルにはクリームチーズなんだな」と思ったことも書き記しておきます。&lt;strong&gt;ご飯を食べずに劇場に入ったのでお腹が空いていて……&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;あと予想していたよりずっとテンションはダグラス・アダムズでしたね。作品の脊髄神経にダグラス・アダムズが入っているとでも言うか（怖……）ダニエルズ直々に登場してしまうのも笑ってしまった。君らそこで出てくるのか！？ずるいが！？っていうアレです。&lt;/p&gt;
@@ -830,9 +832,9 @@
     </item>
     <item>
       <title>The Banshees of Inisherin</title>
-      <link>http://localhost:1313/posts/230314/</link>
+      <link>https://wthblog.netlify.app/posts/230314/</link>
       <pubDate>Tue, 14 Mar 2023 19:48:06 +0900</pubDate>
-      <guid>http://localhost:1313/posts/230314/</guid>
+      <guid>https://wthblog.netlify.app/posts/230314/</guid>
       <description>&lt;p&gt;先日「イニシェリン島の精霊」を見てきた。端的にいうと「おじさんの意地の張り合い」映画だった。そんな地味なテーマで114分も持つのかと思いきや全然持つからすごかった。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;本作の舞台は本土が内戦に揺れる1923年、アイルランドの孤島、イニシェリン島。島民全員が顔見知りのこの平和な小さい島で、気のいい男パードリックは長年友情を育んできたはずだった友人コルムに突然の絶縁を告げられる。急な出来事に動揺を隠せないパードリックだったが、理由はわからない。(公式サイトより)&lt;/p&gt;&lt;/blockquote&gt;
@@ -845,9 +847,9 @@
     </item>
     <item>
       <title>Sherlock Holmes The Awakened</title>
-      <link>http://localhost:1313/posts/230311-3/</link>
+      <link>https://wthblog.netlify.app/posts/230311-3/</link>
       <pubDate>Sat, 11 Mar 2023 19:05:15 +0900</pubDate>
-      <guid>http://localhost:1313/posts/230311-3/</guid>
+      <guid>https://wthblog.netlify.app/posts/230311-3/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://jp.ign.com/sherlock-holmes-the-awakened-2023/66334/news/sherlock-holmes-the-awakened411&#34;&gt;クトゥルフ神話的な事件にホームズが挑むアドベンチャーゲーム『Sherlock Holmes The Awakened』が4月11日に発売決定
 &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;最近&lt;a href=&#34;https://www.hayakawa-online.co.jp/shopdetail/000000015180/pc_detail/&#34;&gt;シャーロック・ホームズとシャドウェルの影&lt;/a&gt;を読んだのもあり、つい「ま〜たこういうの持ってきたな」と思ったのだが、2007年に発売したオリジナルのリメイク版だそうだ。なお、&lt;/p&gt;
@@ -858,26 +860,18 @@
     </item>
     <item>
       <title>メニューとは</title>
-      <link>http://localhost:1313/posts/230311-2/</link>
+      <link>https://wthblog.netlify.app/posts/230311-2/</link>
       <pubDate>Sat, 11 Mar 2023 16:58:48 +0900</pubDate>
-      <guid>http://localhost:1313/posts/230311-2/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;halo reach&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/img02.jpg&#34;&gt;
+      <guid>https://wthblog.netlify.app/posts/230311-2/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;halo reach&#34; loading=&#34;lazy&#34; src=&#34;https://wthblog.netlify.app/img/img02.jpg&#34;&gt;
 すまないが俺にはこのテーマで思い通りのメニューを作ることがまだ難しいみたいだ。&lt;/p&gt;
 &lt;p&gt;そんなこんなでゲームが進んでいない。いやちょっとそろそろゲームをしよう。&lt;/p&gt;</description>
     </item>
     <item>
-      <title>若干把握したかもしれない。</title>
-      <link>http://localhost:1313/posts/contents03/</link>
-      <pubDate>Fri, 10 Mar 2023 17:58:40 +0900</pubDate>
-      <guid>http://localhost:1313/posts/contents03/</guid>
-      <description>&lt;p&gt;少しわかってきました。hugo するのが大事だ。いやこれ構築はすごく簡単なんだけどデプロイできなくてめちゃくちゃ苦しみ、最終的に「普通にいつものサーバーにアップすればいいのでは？」と真顔になった。&lt;/p&gt;
-&lt;p&gt;今までMarkdownを積極的に使ってこなかったけどおそらくめちゃくちゃ便利だと思われるので学習してきたい。&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Hugoを導入してみる</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>https://wthblog.netlify.app/posts/my-first-post/</link>
       <pubDate>Fri, 10 Mar 2023 12:24:05 +0900</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>https://wthblog.netlify.app/posts/my-first-post/</guid>
       <description>&lt;p&gt;最近訪問先のブログがHugoを利用していることが多く、気になったので自分も導入してみることにした。元々がHTML手打ちから始めた身としては、ローカルで管理編集できるのが何よりいい。生成も早い。一旦構築してしまえばあとは記事を書いて流していくだけだ。細かい調整はまだだが、これからやっていく。&lt;/p&gt;
 &lt;p&gt;作成にあたり参考にさせて頂いた本がとても良かったので、以下。&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://nextpublishing.jp/book/12720.html&#34;&gt;Hugoで始める静的サイト構築入門　静的サイトジェネレーターで作る自作サイト&lt;/a&gt;&lt;/p&gt;</description>
