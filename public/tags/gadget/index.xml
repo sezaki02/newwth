@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Gadget on wth</title>
-    <link>https://wthblog.netlify.app/tags/gadget/</link>
+    <link>http://localhost:1313/tags/gadget/</link>
     <description>Recent content in Gadget on wth</description>
-    <generator>Hugo -- 0.140.2</generator>
+    <generator>Hugo -- 0.150.0</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Oct 2023 09:17:31 +0900</lastBuildDate>
-    <atom:link href="https://wthblog.netlify.app/tags/gadget/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/gadget/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>iPhoneをiPodにする</title>
-      <link>https://wthblog.netlify.app/posts/ipod/</link>
+      <link>http://localhost:1313/posts/ipod/</link>
       <pubDate>Mon, 30 Oct 2023 09:17:31 +0900</pubDate>
-      <guid>https://wthblog.netlify.app/posts/ipod/</guid>
+      <guid>http://localhost:1313/posts/ipod/</guid>
       <description>&lt;p&gt;インターネットを見ていたら面白い記事を発見しました。&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.gizmodo.jp/2023/10/httpsgizmodo-comurban-outfitters-selling-vintage-ipods.html&#34;&gt;若者に人気の米アパレルショップがiPodを販売。すぐ完売&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;新品バッテリーの初代iPod（128GB）が5万円強。自分はiPodを使っていた世代なので物珍しさで……というわけではありませんが、この頃MP3プレイヤーが欲しいと思っていたのでとても羨ましいです。&lt;strong&gt;真ん中のアレをクルクルしたいよ〜&lt;/strong&gt;！&lt;/p&gt;

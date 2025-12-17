@@ -5,7 +5,7 @@ title = 'Mission: Impossible – The Final Reckoning'
 ShowToc = true
 tocopen = true
 ShowBreadCrumbs = true
-tags = "映画"
+tags = ["映画"]
 +++
 
 ## DORAHUTO
