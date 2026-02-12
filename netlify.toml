@@ -4,3 +4,6 @@
 
 [context.production.environment]
   HUGO_VERSION = "0.140.2"  # 使用したいHugoのバージョンを指定
+
+  [build.environment]
+  NODE_VERSION = "24"
