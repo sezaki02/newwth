@@ -45,3 +45,6 @@ favicon = "https://raw.githubusercontent.com/sezaki02/newwth/main/static/favicon
 favicon16x16 = "https://raw.githubusercontent.com/sezaki02/newwth/main/static/favicon-16x16.png"
 favicon32x32 = "https://raw.githubusercontent.com/sezaki02/newwth/main/static/favicon-32x32.png"
 apple_touch_icon = "https://raw.githubusercontent.com/sezaki02/newwth/main/static/apple-touch-icon.png"
+
+[build.environment]
+NODE_VERSION = "24"
